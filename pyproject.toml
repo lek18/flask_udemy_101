@@ -9,6 +9,7 @@ packages = [{include = "flask_udemy_101"}]
 [tool.poetry.dependencies]
 python = "^3.11"
 flask = "^3.0.0"
+flask-smorest = "^0.42.2"
 
 
 [build-system]
